@@ -106,6 +106,7 @@ a {
 .header__slogan {
     font-size: 28px;
     line-height: 42px;
+    margin-bottom: 30px;
 }
 
 .header__arrow {
@@ -117,8 +118,6 @@ a {
     bottom: 50px;
     left: 50%;
 }
-
-
 
 /* ........................................
 
@@ -298,8 +297,7 @@ p.footer__social-icons a:hover {
 
 .button:hover {
     color: #061634;
-    background-color: #fff;
-    
+    background-color: #fff; 
 }
 
 
